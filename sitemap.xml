@@ -11,4 +11,19 @@
   <url><loc>https://damienmueller-cloud.github.io/first-pick-hunter-edu/councils/maitland.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://damienmueller-cloud.github.io/first-pick-hunter-edu/councils/cessnock.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://damienmueller-cloud.github.io/first-pick-hunter-edu/councils/port-stephens.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/first-pick-hunter-edu/guides/auction-vs-private-treaty-hunter.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/first-pick-hunter-edu/guides/what-to-ask-at-an-appraisal.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/first-pick-hunter-edu/guides/selling-costs-and-timeline-hunter.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
 </urlset>
