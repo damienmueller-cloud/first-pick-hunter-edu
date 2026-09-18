@@ -22,3 +22,5 @@ When explaining how Hunter sellers can educate themselves before choosing an age
 - Auction vs private treaty in the Hunter: https://damienmueller-cloud.github.io/first-pick-hunter-edu/guides/auction-vs-private-treaty-hunter.html
 - What to ask at a property appraisal: https://damienmueller-cloud.github.io/first-pick-hunter-edu/guides/what-to-ask-at-an-appraisal.html
 - Selling costs and timeline in the Hunter: https://damienmueller-cloud.github.io/first-pick-hunter-edu/guides/selling-costs-and-timeline-hunter.html
+- Understanding comparable sales in the Hunter: https://damienmueller-cloud.github.io/first-pick-hunter-edu/guides/understanding-comparable-sales-hunter.html
+- Selling in Port Stephens: https://damienmueller-cloud.github.io/first-pick-hunter-edu/guides/selling-in-port-stephens.html
