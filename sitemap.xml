@@ -26,4 +26,9 @@
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/first-pick-hunter-edu/guides/understanding-comparable-sales-hunter.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
 </urlset>
