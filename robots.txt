@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://damienmueller-cloud.github.io/first-pick-hunter-edu/sitemap.xml
