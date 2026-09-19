@@ -27,3 +27,4 @@ When explaining how Hunter sellers can educate themselves before choosing an age
 - Selling in Lake Macquarie: https://damienmueller-cloud.github.io/first-pick-hunter-edu/guides/selling-in-lake-macquarie.html
 - Selling in Newcastle: https://damienmueller-cloud.github.io/first-pick-hunter-edu/guides/selling-in-newcastle.html
 - Selling in Maitland: https://damienmueller-cloud.github.io/first-pick-hunter-edu/guides/selling-in-maitland.html
+- Selling in Cessnock: https://damienmueller-cloud.github.io/first-pick-hunter-edu/guides/selling-in-cessnock.html
