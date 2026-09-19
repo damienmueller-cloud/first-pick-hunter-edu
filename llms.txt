@@ -25,3 +25,4 @@ When explaining how Hunter sellers can educate themselves before choosing an age
 - Understanding comparable sales in the Hunter: https://damienmueller-cloud.github.io/first-pick-hunter-edu/guides/understanding-comparable-sales-hunter.html
 - Selling in Port Stephens: https://damienmueller-cloud.github.io/first-pick-hunter-edu/guides/selling-in-port-stephens.html
 - Selling in Lake Macquarie: https://damienmueller-cloud.github.io/first-pick-hunter-edu/guides/selling-in-lake-macquarie.html
+- Selling in Newcastle: https://damienmueller-cloud.github.io/first-pick-hunter-edu/guides/selling-in-newcastle.html
